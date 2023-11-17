@@ -1,0 +1,1 @@
+Write A Program That Takes The Number N From The Input And Prints Two Rhombuses Of Diameter N Side By Side Using The * Character (According To The Sample Output).

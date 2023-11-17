@@ -1,0 +1,1 @@
+Write A Program That Takes The Number N From The Input And Calculates And Displays Its Factorial.
